@@ -4,3 +4,11 @@
   --accent-color: rgb(217, 182, 242);
   font-family: 'Segoe UI', sans-serif;
 }
+
+.brand-name {
+  padding: 8px 16px;
+}
+
+.brand-logo {
+  width: 200px;
+}

@@ -6,7 +6,9 @@
   crossorigin
   />
 
-  <button type="button" #showComments>Mostrar infos</button>
+  <div class="btn-container">
+    <button type="button" #showComments>Mostrar infos</button>
+  </div>
   
   @defer (on hover; on interaction(showComments)) {
     <h2 class="listing-heading">{{ housingLocation.name }}</h2>
