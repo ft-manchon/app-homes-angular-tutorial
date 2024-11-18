@@ -1,5 +1,6 @@
 :host {
-  --primary-color: oklch(53.18% 0.28 296.97);
-  --secondary-color: oklch(51.01% 0.274 263.83);
-  --accent-color: oklch(69.02% 0.277 332.77);
+  --primary-color: rgb(133, 20, 245);
+  --secondary-color: rgb(239, 121, 239);
+  --accent-color: rgb(217, 182, 242);
+  font-family: 'Segoe UI', sans-serif;
 }
