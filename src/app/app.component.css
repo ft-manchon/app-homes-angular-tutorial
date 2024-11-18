@@ -1,5 +1,5 @@
 :host {
   --primary-color: oklch(53.18% 0.28 296.97);
   --secondary-color: oklch(51.01% 0.274 263.83);
-  --hover-color: oklch(69.02% 0.277 332.77);
+  --accent-color: oklch(69.02% 0.277 332.77);
 }
